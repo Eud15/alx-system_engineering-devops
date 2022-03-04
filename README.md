@@ -1,1 +1,1 @@
-My readme alx school
+mys shell permission readme

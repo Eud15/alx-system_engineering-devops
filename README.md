@@ -1,1 +1,1 @@
-mys shell permission readme
+shell variables expansions

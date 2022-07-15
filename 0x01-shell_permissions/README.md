@@ -1,0 +1,1 @@
+0x01. Shell, permissions by Eudoxie ABOUTA
